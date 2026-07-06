@@ -5,17 +5,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%B6+Multi-Song+CLI+Player;%E2%9C%A8+Lyrics+with+Typewriter+Effect;%F0%9F%92%BB+Created+by+Kenichi+Ichi)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://github.com/KenCodeDev/codesong">
-  <img src="https://img.shields.io/github/package-json/v/KenCodeDev/codesong?style=for-the-badge&color=1E90FF&label=Version&labelColor=0F4C81"/>
+<a href="https://github.com/KenCodeDev/codesong-v2">
+  <img src="https://img.shields.io/github/package-json/v/KenCodeDev/codesong-v2?style=for-the-badge&color=1E90FF&label=Version&labelColor=0F4C81"/>
 </a>
-<a href="https://github.com/KenCodeDev/codesong">
-  <img src="https://img.shields.io/github/languages/top/KenCodeDev/codesong?style=for-the-badge&color=1E90FF&label=JavaScript&labelColor=0F4C81"/>
+<a href="https://github.com/KenCodeDev/codesong-v2">
+  <img src="https://img.shields.io/github/languages/top/KenCodeDev/codesong-v2?style=for-the-badge&color=1E90FF&label=JavaScript&labelColor=0F4C81"/>
 </a>
-<a href="https://github.com/KenCodeDev/codesong/issues">
-  <img src="https://img.shields.io/github/issues/KenCodeDev/codesong?style=for-the-badge&color=1E90FF&label=Issues&labelColor=0F4C81"/>
+<a href="https://github.com/KenCodeDev/codesong-v2/issues">
+  <img src="https://img.shields.io/github/issues/KenCodeDev/codesong-v2?style=for-the-badge&color=1E90FF&label=Issues&labelColor=0F4C81"/>
 </a>
-<a href="https://github.com/KenCodeDev/codesong/stargazers">
-  <img src="https://img.shields.io/github/stars/KenCodeDev/codesong?style=for-the-badge&color=1E90FF&label=Stars&labelColor=0F4C81"/>
+<a href="https://github.com/KenCodeDev/codesong-v2/stargazers">
+  <img src="https://img.shields.io/github/stars/KenCodeDev/codesong-v2?style=for-the-badge&color=1E90FF&label=Stars&labelColor=0F4C81"/>
 </a>
 </p>
 
@@ -111,7 +111,7 @@ export default {
 ## 🧠 Cara Install
 
 ```bash
-git clone https://github.com/KenCodeDev/codesong.git
+git clone https://github.com/KenCodeDev/codesong-v2.git
 ```
 ```bash
 cd codesong
@@ -142,7 +142,7 @@ Terimakasih telah menggunakan CodeSong V2! ❤️
 
 Ada error? Hubungi developer via:
 - Instagram: [@kenichi_ichi](https://instagram.com/kenichi_ichi)
-- GitHub Issues: [Create Issue](https://github.com/KenCodeDev/codesong/issues)
+- GitHub Issues: [Create Issue](https://github.com/KenCodeDev/codesong-v2/issues)
 
 ---
 
