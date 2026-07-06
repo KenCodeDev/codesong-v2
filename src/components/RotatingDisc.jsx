@@ -9,7 +9,7 @@ export default function RotatingDisc() {
 
   useInterval(() => {
     setFrameIndex((prev) => (prev + 1) % frames.length);
-  }, 80); // ~12.5 FPS
+  }, 80); // kurang lebih ~12.5 FPS
 
   return (
     <Text>
